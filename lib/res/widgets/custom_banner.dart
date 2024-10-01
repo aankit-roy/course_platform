@@ -20,7 +20,7 @@ class CustomBanner extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: 206.sp,
-      padding: const EdgeInsets.only(top: 3, left: 8, bottom: 4),
+      padding: const EdgeInsets.only(top: 12, left: 12, bottom: 10,right: 2),
       decoration: BoxDecoration(
         color: backgroundColor,
         borderRadius: BorderRadius.circular(10),

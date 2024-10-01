@@ -246,7 +246,7 @@ class _HomeScreenState extends State<HomeScreen> {
               child: SizedBox(
                 height: 120.sp,
                 child: ListView(
-                  padding: const EdgeInsets.symmetric(vertical: 10),
+                  // padding: const EdgeInsets.symmetric(vertical: 10),
                   scrollDirection: Axis.horizontal,
                   children: [
                     const CustomBanner(
