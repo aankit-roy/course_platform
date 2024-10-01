@@ -1,5 +1,4 @@
 
-import 'package:course_platform/main.dart';
 import 'package:course_platform/modal/image_path.dart';
 import 'package:course_platform/res/colors/app_colors.dart';
 import 'package:flutter/material.dart';
